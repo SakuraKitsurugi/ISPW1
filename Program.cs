@@ -38,6 +38,7 @@ public class ISPW1
 			int textLetter = (int)text[i];
 			int keyLetter = (int)key[i % key.Length];
 			int decryptedLetter = (textLetter - keyLetter);
+			//komentaras
 			if(decryptedLetter < 0) { decryptedLetter += 127; }
 			decryptedText += (char)decryptedLetter;
 		}
