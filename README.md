@@ -1,7 +1,8 @@
 > [!IMPORTANT]
 > Grade: 7/10
-## Task:
+## Description:
 **Create an encryption/decryption system. Use a Vigenere cipher.**
+## Tasks:
 - - [x] Initial text input.
 - - [x] Key input.
 - - [x] An algorithm has been developed that only encrypts letters.
